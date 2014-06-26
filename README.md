@@ -1,4 +1,4 @@
-Eurosentiment: Python tutorial
+Eurosentiment: Ruby tutorial
 ============================
 
 [Eurosentiment](http://eurosentiment.eu) is a cloud marketplace that provides multilingual sentiment and emotion analysis services, pipelines for enriching language resources, and a set of standardized resources (annotated corpora and lexicons) for performing sentiment, emotion and other semantic analysis tasks.
