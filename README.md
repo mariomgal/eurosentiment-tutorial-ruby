@@ -7,13 +7,13 @@ Within this repository you'll find a complete example for creating a simple sent
 
 ## Table of contents
 
-* [Creating an Eurosentiment LRP account.](https://github.com/mariomgal/eurosentiment-tutorial-python/wiki/Creating-an-Eurosentiment-LRP-account)
-* [Pre-requisites.](https://github.com/mariomgal/eurosentiment-tutorial-python/wiki/Pre-requisites)
-* [Setting up the development environment.](https://github.com/mariomgal/eurosentiment-tutorial-python/wiki/Setting-up-the-development-environment)
-* [Using Eurosentiment LRP services.](https://github.com/mariomgal/eurosentiment-tutorial-python/wiki/Using-Eurosentiment-LRP-services.)
-* [Using Eurosentiment LRP resources.](https://github.com/mariomgal/eurosentiment-tutorial-python/wiki/Using-Eurosentiment-LRP-resources.)
-* [Creating your first sentiment analysis application.](https://github.com/mariomgal/eurosentiment-tutorial-python/wiki/Creating-your-first-sentiment-analysis-application.)
-* [Exposing your application as a service.](https://github.com/mariomgal/eurosentiment-tutorial-python/wiki/Exposing-your-application-as-a-service.)
-* [Registering your service in Eurosentiment.](https://github.com/mariomgal/eurosentiment-tutorial-python/wiki/Registering-your-service-in-Eurosentiment.)
+* [Creating an Eurosentiment LRP account.](https://github.com/mariomgal/eurosentiment-tutorial-ruby/wiki/Creating-an-Eurosentiment-LRP-account)
+* [Pre-requisites.](https://github.com/mariomgal/eurosentiment-tutorial-ruby/wiki/Pre-requisites)
+* [Setting up the development environment.](https://github.com/mariomgal/eurosentiment-tutorial-ruby/wiki/Setting-up-the-development-environment)
+* [Using Eurosentiment LRP services.](https://github.com/mariomgal/eurosentiment-tutorial-ruby/wiki/Using-Eurosentiment-LRP-services.)
+* [Using Eurosentiment LRP resources.](https://github.com/mariomgal/eurosentiment-tutorial-ruby/wiki/Using-Eurosentiment-LRP-resources.)
+* [Creating your first sentiment analysis application.](https://github.com/mariomgal/eurosentiment-tutorial-ruby/wiki/Creating-your-first-sentiment-analysis-application.)
+* [Exposing your application as a service.](https://github.com/mariomgal/eurosentiment-tutorial-ruby/wiki/Exposing-your-application-as-a-service.)
+* [Registering your service in Eurosentiment.](https://github.com/mariomgal/eurosentiment-tutorial-ruby/wiki/Registering-your-service-in-Eurosentiment.)
 
 [EUROSENTIMENT PROJECT](http://eurosentiment.eu) (Grant Agreement no: 296277, Starting date: 01/09/2012, Project duration: 24 months)
